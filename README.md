@@ -27,9 +27,10 @@ I am currently an undergraduate in the School of Mechanical Engineering, Shangha
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" style="height:40px;width:auto;max-width:40px;" alt="ROS2"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="height:50px;width:auto;max-width:50px;" alt="LaTeX"/>
     <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/isaac-sim.svg" style="height:40px;width:auto;max-width:40px;background-color: #6B6B66; border-radius: 8px;" alt="IsaacSim"/>
-    <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/MuJoco.svg" style="height:30px;width:auto;" alt="MuJoco"/>
+    <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/MuJoCo.svg" style="height:30px;width:auto;" alt="MuJoco"/>
     <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/Solidworks-logo_red.svg" style="height:30px;width:auto;" alt="Solidworks"/>
 </p>
+
 
 
 
