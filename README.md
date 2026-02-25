@@ -17,8 +17,6 @@ I am currently an undergraduate in the School of Mechanical Engineering, Shangha
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Python"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:40px;width:auto;max-width:40px;" alt="NumPy"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:40px;width:auto;max-width:40px;" alt="PyTorch"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansys/ansys-original.svg" style="height:40px;width:auto;max-width:40px;" alt="ANSYS"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="height:40px;width:auto;max-width:40px;" alt="MATLAB"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Arduino"/>
@@ -30,6 +28,7 @@ I am currently an undergraduate in the School of Mechanical Engineering, Shangha
     <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/MuJoCo.svg" style="height:30px;width:auto;" alt="MuJoco"/>
     <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/Solidworks-logo_red.svg" style="height:30px;width:auto;" alt="Solidworks"/>
 </p>
+
 
 
 
