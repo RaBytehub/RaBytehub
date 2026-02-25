@@ -12,22 +12,26 @@ I am currently an undergraduate in the School of Mechanical Engineering, Shangha
 
 ## Tools & Applications
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:50px;width:auto;max-width:50px;" alt="C++"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:50px;width:auto;max-width:50px;" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:50px;width:auto;max-width:50px;" alt="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:50px;width:auto;max-width:50px;" alt="Linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:50px;width:auto;max-width:50px;" alt="NumPy"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:50px;width:auto;max-width:50px;" alt="PyTorch"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansys/ansys-original.svg" style="height:50px;width:auto;max-width:50px;" alt="ANSYS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="height:50px;width:auto;max-width:50px;" alt="MATLAB"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:50px;width:auto;max-width:50px;" alt="Arduino"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original.svg" style="height:50px;width:auto;max-width:50px;" alt="Gazebo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="height:50px;width:auto;max-width:50px;" alt="TensorFlow"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" style="height:50px;width:auto;max-width:50px;" alt="ROS2"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="height:60px;width:auto;max-width:60px;" alt="LaTeX"/>
-    <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/isaac-sim.svg" style="height:50px;width:auto;max-width:50px;background-color: #6B6B66; border-radius: 8px;" alt="IsaacSim"/>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="height:40px;width:auto;max-width:40px;" alt="C++"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Linux"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="height:40px;width:auto;max-width:40px;" alt="NumPy"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="height:40px;width:auto;max-width:40px;" alt="PyTorch"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansys/ansys-original.svg" style="height:40px;width:auto;max-width:40px;" alt="ANSYS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="height:40px;width:auto;max-width:40px;" alt="MATLAB"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Arduino"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original.svg" style="height:40px;width:auto;max-width:40px;" alt="Gazebo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="height:40px;width:auto;max-width:40px;" alt="TensorFlow"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" style="height:40px;width:auto;max-width:40px;" alt="ROS2"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" style="height:50px;width:auto;max-width:50px;" alt="LaTeX"/>
+    <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/isaac-sim.svg" style="height:40px;width:auto;max-width:40px;background-color: #6B6B66; border-radius: 8px;" alt="IsaacSim"/>
+    <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/MuJoco.svg" style="height:30px;width:auto;" alt="MuJoco"/>
+    <img src="https://raw.githubusercontent.com/RaBytehub/RaBytehub/refs/heads/main/icon/Solidworks-logo_red.svg" style="height:30px;width:auto;" alt="Solidworks"/>
 </p>
+
+
 
 
 
